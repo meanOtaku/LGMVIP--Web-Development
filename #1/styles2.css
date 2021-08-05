@@ -1,0 +1,241 @@
+body {
+    font-family: "Montserrat", sans-serif !important;
+    font-weight: 400 !important;
+    line-height: 1.666 !important;
+    background-color: rgb(255, 251, 235) !important;
+    margin: 0% !important;
+    padding: 0% !important;
+}
+.above{
+    background-image: url('img/1.png');
+    background-position: 20px;
+    background-position-x: center;
+}
+span h1{
+    display: inline-block !important;
+}
+.nava{
+    margin-top: 30px !important;
+    float: right !important;
+}
+header{
+    display: inline-block !important;
+}
+.pos-center{
+    margin: auto !important;
+    width: 50% !important;
+}
+.pos{
+    margin-top: 50px;
+}
+.heading{
+    text-align: center !important;
+    font-weight: bolder;
+}
+.tobe{
+    display: inline-block !important;
+}
+.tobe h2{
+    display: inline-block !important;
+    float: left !important;
+}
+.tobe img{
+    margin-left: 50px !important;
+    float: right !important;
+}
+.cards{
+    margin: auto !important;
+    width: 60% !important;
+}
+.img2{
+    margin-bottom: 10px;
+    opacity: 0.3;
+}
+.carda{
+    display: inline-block !important;
+    text-align: center !important;
+    margin: 95px !important;
+}
+.carda img{
+    border-radius: 50% !important;
+    width: 100px !important;
+}
+.poster{
+    display: inline !important;
+    margin: 0% !important;
+    padding: 0% !important;
+}
+.banner{
+    display: inline-block !important;
+    margin: 0px !important;
+    width: 24.8% !important;
+    border: 0ch !important;
+}
+.banner img{
+    display: inline-block !important;
+    height: 1000px !important;
+    margin: 0%;
+    overflow: hidden;
+}
+.banner-content{
+    margin: 0%;
+    display: block;
+    padding: 30px !important;
+    border: 0ch !important;
+}
+.poster div{
+    margin: 0% !important;
+}
+.ads{
+    margin: auto !important;
+    width: 50% !important;
+}
+.ad{
+    display: inline-block !important;
+    text-align: center !important;
+    margin: auto !important;
+    width: 32% !important;
+}
+.vl {
+    border-left: 1px solid black !important;
+    height: 200px !important;
+    display: inline-block !important;
+}
+.panel{
+    margin: 50px !important;
+    margin-bottom: 150px;
+}
+.project{
+    background-color:rgb(105, 14, 105)!important;
+    color: aliceblue;
+}
+.intros{
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    padding-left: 150px;
+}
+.intro{
+    display: inline-block;
+    margin: 33px;
+    text-align: center;
+}
+.intro img{
+    border-radius: 50%;
+    width: 200px;
+
+}
+.heading2{
+    text-align: center !important;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    left: -27px;
+    margin: 0%;
+}
+.form-sub{
+  background-image: url("https://cdn.britannica.com/02/20302-050-C9632F53/Seto-Great-Bridge-Inland-Sea-Kojima-Honshu.jpg");
+}
+.form-sub form{
+    top: 400px;
+    left: 800px;
+}
+
+.panel2{
+    position: relative;
+}
+.heading2{
+    text-emphasis-style: bold;
+}
+.left{
+    display: inline-block;
+    position: relative;
+
+}
+.right{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: -150px;
+}
+.right form{
+  top: -100px;
+  left: 50px;
+}
+footer{
+    display: inline-block;
+    position: relative;
+    left: 700px;
+    margin: auto;
+    width: 50%;
+}
+footer .idcard{
+    display: inline-block;
+    margin: 40px;
+    width: 100px;
+    text-align: center;
+}
+button{
+    border: 3px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 161);
+    font-weight: bolder;
+    font-size: small;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.dot{
+    margin-top: 300px;
+}
+.itema{
+    font-weight: bold;
+    margin-left: 40px;
+}
+.move{
+    margin-top: 220px;
+}
+
+
+.indicator-next{
+  height: 100px;
+}
+.indicator-prev{
+  height: 100px;
+
+}
+.slideshow-container{
+  display: inline;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 50%;
+}
+.slideconmain{
+  display: inline-block;
+  margin: auto;
+
+  padding-bottom: 50px;
+}
+.slideconmain button{
+  display: inline-block;
+  margin: auto;
+  position: relative;
+}
+
+iframe{
+  border: 0ch;
+}
+.slideshow-container-sec{
+  display: inline;
+  margin: auto;
+  width: 50%;
+}
+.profile{
+  background-color: blueviolet;
+}
+input{
+  border: 0;
+}
+.overlay{
+  opacity: 0;
+}
